@@ -1,0 +1,80 @@
+.bg{
+    background-image:url('../images/image1.jpg');
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    transition: 10s;
+    animation: animation 10s ease-in-out 10s infinite alternate-reverse forwards;
+    
+}
+@keyframes animation {
+    0%{
+        background-image: url("../images/i.jpg");
+    }
+    20%{
+        background-image: url("../images/im1.jpg");
+    }
+    40%{
+        background-image: url("../images/im2.jpg");
+    }
+    60%{
+        background-image: url("../images/im3.jpg");
+    }
+    80%{
+        background-image: url("../images/image1.jpg");
+    }
+    100%{
+        background-image: url("../images/image2.jpg");
+    }
+
+    
+}
+.heading{
+    width: 350px;
+    padding: 5px;
+    color:hotpink;
+    border: 2px dotted rgb(215, 255, 205);
+    margin: 50px auto;
+    text-align: center;
+    outline: 2px solid rgb(20, 220, 63);
+    outline-offset: 1px;
+}
+.loginbox{
+
+    width: 250px;
+    height: 280px;
+    margin: 70px auto;
+    border: 2px solid brown;
+}
+.login{
+    width: 70px;
+    height: 25px;
+    padding-top: 5px;
+    text-align: center;
+    margin: 20px auto;
+    color: darkturquoise;
+    border: 3px solid rgb(224, 197, 197);
+}
+.getuserdata{
+    width: 15px;
+    height: 15px;
+    margin: 20px 30px 20px 30px;
+
+}
+.btn{
+    text-align: center;
+    padding: 5px;
+}
+.forget{
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(20, 220, 63);
+}
+.creatacc{
+    text-align: center;
+    margin-top: 20px;
+    color: darkgreen;
+}
+.for{
+    color:red;
+}

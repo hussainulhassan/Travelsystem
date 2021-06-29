@@ -1,0 +1,75 @@
+
+.selbtn{
+    width: 100px; 
+    height: 50px;
+    font-size: 30px;
+    color: seagreen;
+    padding: 2px;
+    border-radius: 5px;
+    border: 3px solid yellow;
+    margin-top: 30px;
+}
+ .admin{ 
+    margin-left: 400px;
+    margin-top: 100px;
+
+}
+.user{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.inline{
+    display:inline-block;
+}
+.header{
+    display: inline-block;
+    border: 3px solid coral;
+    border-radius: 15px;
+    height: 20%;
+    width: 100%;
+}
+.uimage{
+    height: 40px;
+    width: 40px;
+    border: 1px solid darkorchid;
+    border-radius: 30px;
+    margin:10px 2px 5px 2px;
+}
+.username{
+    font-size: 40px;
+    padding: 10px;
+    margin-bottom: 20px;;
+}
+.smsbtn{
+    float: right;
+    margin: 20px;
+}
+.ALbtn{
+    float: right;
+    margin: 20px;
+
+}
+.Admincontainer{
+    text-align: center;
+    height: 80%;
+    width: 100%;
+    
+}
+.amenubtn{
+    margin-top: 200px;
+    margin-right: 10px;
+    color:blue;
+    font-size: 20px;
+    height: 60px;
+    width: 200px;
+}
+.contactbtn{
+    float: right;
+    margin: 20px;
+}
+.ubtn{
+    height: 50px;
+    width: 100px;
+    color: blue;
+
+}

@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    color: rgb(109, 177, 32);
+    border: 5px solid rgba(59, 107, 119, 0.616);
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    outline: 3px groove brown;
+}
+fieldset{
+    margin-top: 20px;
+    margin-left: 400px;
+    height: auto;
+    width: 380px;
+    color: gold;
+}
+.tb{
+    border-collapse: separate;
+    border-spacing: 10px 15px;
+}
+
+.lab{
+    text-align: right;
+}
+.fot{
+    height: 45px;
+    color: navy;
+}
+.btn{
+    margin-top: 15px;
+    background-color: rgb(75, 85, 172);
+    color:ivory;
+    border-radius: 10px;
+    padding: 5px;
+    float: right;
+}
+.bttn{
+    margin-right: 40px;
+}
